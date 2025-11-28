@@ -1,0 +1,26 @@
+✅ Таблица успешно инициализирована автоматически
+
+
+ℹ️  INFO: Total matchs sum of Mx column and My row
+
+РЕЗУЛЬТАТЫ ВЫЧИСЛЕНИЙ:
+Основные суммы:
+	∑(m_x * x)    = 57120.00
+	∑(m_y * y)    = 686.20
+	∑(m_xy * x*y) = 444472.00
+	∑(m_x * x²)   = 37996800.00
+	∑(m_y * y²)   = 5340.04
+
+ Выборочные характеристики:
+	x̄ = 571.2000, ȳ = 6.8620
+	s_x² = 54240.9697, s_y² = 6.3771
+	s_x = 232.8969, s_y = 2.5253
+	s_xy = 530.4501, r_xy = 0.9019
+
+ УРАВНЕНИЕ РЕГРЕССИИ:
+	y = 1.2759 + 0.0098 * x
+	Slope = 0.0098, Intercept = 1.2759
+Graph with empirical regression line saved as 'regression_plot.png'
+
+
+Made by Artemyasnik!
